@@ -27,7 +27,7 @@ done
 
 cd `dirname $0`
 
-img_name=${APP_NAME:-}
+kiko-yuri/img_name=${APP_NAME:-}
 img_ver=${VERSION:-1.0.0}
 container_name=${APP_NAME:-}
 
